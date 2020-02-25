@@ -1,0 +1,10 @@
+﻿  Game.cpp
+D:\c++\Games\C++ games\Snake\Snake\Game.cpp(41,20): warning C4018: '<': signed/unsigned mismatch
+D:\c++\Games\C++ games\Snake\Snake\Game.cpp(174,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\c++\Games\C++ games\Snake\Snake\Game.cpp(174,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\c++\Games\C++ games\Snake\Snake\Game.cpp(177,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\c++\Games\C++ games\Snake\Snake\Game.cpp(177,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\c++\Games\C++ games\Snake\Snake\Game.cpp(179,20): warning C4018: '<': signed/unsigned mismatch
+D:\c++\Games\C++ games\Snake\Snake\Game.cpp(181,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\c++\Games\C++ games\Snake\Snake\Game.cpp(181,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Snake.vcxproj -> D:\c++\Games\C++ games\Snake\Debug\Snake.exe
